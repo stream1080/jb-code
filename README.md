@@ -1,4 +1,4 @@
-# jb-code
+# jetbrains-code
 
 自定义生成JetBrains Code
 
